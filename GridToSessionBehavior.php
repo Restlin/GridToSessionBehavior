@@ -5,7 +5,7 @@
  * @version 1.0.0
  * @link https://github.com/restlin/GridToSessionBehavior
  */
-namespace app\components;
+namespace restlin\grid2session;
 
 use Yii;
 
