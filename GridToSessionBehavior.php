@@ -2,7 +2,7 @@
 
 /**
  * @copyright Copyright (c) 2016 Ilya Shumilov
- * @version 1.0.0
+ * @version 1.0.1
  * @link https://github.com/restlin/GridToSessionBehavior
  */
 namespace restlin\grid2session;
@@ -18,7 +18,7 @@ use Yii;
 class GridToSessionBehavior extends \yii\base\Behavior
 {
     /**
-     * Массив базовых параметров
+     * Base params to store
      * @var array
      */
     public $baseParams = [
