@@ -4,7 +4,7 @@
     "keywords": ["yii2", "extension","controller", "grid", "session"],
     "homepage": "https://github.com/Restlin/GridToSessionBehavior",
     "type": "yii2-extension",
-    "license": "GNU3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Ilya Shumilov",
